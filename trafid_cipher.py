@@ -1,4 +1,4 @@
-# https://en.wikipedia.org/wiki/Trifid_cipher
+
 from __future__ import annotations
 
 
