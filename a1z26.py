@@ -2,8 +2,6 @@
 Convert a string of characters to a sequence of numbers
 corresponding to the character's position in the alphabet.
 
-https://www.dcode.fr/letter-number-cipher
-http://bestcodes.weebly.com/a1z26.html
 """
 from __future__ import annotations
 
